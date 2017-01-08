@@ -1,5 +1,6 @@
 <h3>About Project</h3>
 <p>This project is developed as part of the Udacity's Fullstack Nanodegree program</p>
+<p> The link to this project can be found at https://bassublog.appspot.com
 
 <h4>Multi User Blog</h4>
 <p>Multi user blog allows users to create, edit, delete posts.
